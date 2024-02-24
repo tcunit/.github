@@ -2,7 +2,7 @@
 
 ![TcUnit Logo](https://raw.githubusercontent.com/tcunit/TcUnit/master/img/tcunit-logo.png)
 
-**TcUnit** is an xUnit type of framework specifically done for Beckhoff's TwinCAT 3 development environment.
+**TcUnit** is an xUnit type of framework specifically done for [Beckhoff's TwinCAT 3](https://www.beckhoff.com/en-en/products/automation/twincat/) development environment.
 It consists of a single library that is easily integrated into any existing TwinCAT 3 project.
 
 **Easy to use**  
@@ -16,10 +16,6 @@ Add the library to your project and you are ready to go! You can either download
 **MIT-license**  
 The library and all the source code is licensed according to the MIT-license, which is one of the most relaxed software license terms.
 The software is completely free and you can use the software in any way you want, be it private or for commercial use as long as you include the MIT license terms with your software.
-
-**Automated test runs**  
-With the additional (free & open source) TcUnit-Runner software, it's possible to do integrate all your TcUnit tests into a CI/CD software toolchain.
-With the aid of automation software such as Jenkins or Azure DevOps, you can have your tests being run automatically and collect test statistics every time something is changed in your software version control (such as Git or Subversion).
 
 For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 
