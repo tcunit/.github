@@ -25,7 +25,7 @@ For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 
 ## <span style="color:gold;">GOLD</span> [sponsors](https://github.com/sponsors/tcunit)
 
-<img src="img/loupe-ship-in-six-horiz-black-rgb.svg" width="400"/>
+<img src="https://raw.githubusercontent.com/tcunit/.github/83260d9df9315ef2dff115a5f6d1bc2b1c23c3f5/profile/img/loupe-ship-in-six-horiz-black-rgb.svg" width="400"/>
 
 [**ShipInSix**](https://shipinsix.team/) / [**Loupe**](https://loupe.team/)
 
