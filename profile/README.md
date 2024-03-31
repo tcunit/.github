@@ -22,3 +22,15 @@ For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 ## The people making TcUnit a reality
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=TcUnit/TcUnit)
+
+## <span style="color:gold;">GOLD</span> [sponsors](https://github.com/sponsors/tcunit)
+
+<img src="img/loupe-ship-in-six-horiz-black-rgb.svg" width="400"/>
+
+[**ShipInSix**](https://shipinsix.team/) / [**Loupe**](https://loupe.team/)
+
+## <span style="color:#CD7F32;">BRONZE</span> [sponsors](https://github.com/sponsors/tcunit)
+
+<img src="https://avatars.githubusercontent.com/u/155195814?v=4" width="100" />
+
+[**Kusay Tomeh - KTomeh**](https://github.com/KTomeh)
