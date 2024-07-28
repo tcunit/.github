@@ -38,3 +38,7 @@ For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 <img src="https://avatars.githubusercontent.com/u/96783034?v=4" width="100" />
 
 [**Piotr Ostrowski - PiotrOstrowskiCSEG**](https://github.com/PiotrOstrowskiCSEG)
+
+<img src="https://avatars.githubusercontent.com/u/26556312?v=4" width="100" />
+
+[**Jan Hecht - jh-isw**](https://github.com/jh-isw)
