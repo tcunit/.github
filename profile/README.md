@@ -29,6 +29,12 @@ For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 
 [**ShipInSix**](https://shipinsix.team/) / [**Loupe**](https://loupe.team/)
 
+## <span style="color:#C0C0C0;">SILVER</span> [sponsors](https://github.com/sponsors/tcunit)
+
+[**David Freiberger - dfreiberger**](https://github.com/dfreiberger)
+
+<img src="https://avatars.githubusercontent.com/u/3814449?v=4" width="100" />
+
 ## <span style="color:#CD7F32;">BRONZE</span> [sponsors](https://github.com/sponsors/tcunit)
 
 <img src="https://avatars.githubusercontent.com/u/155195814?v=4" width="100" />
