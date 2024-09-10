@@ -31,20 +31,24 @@ For full documentation, visit [www.tcunit.org](https://www.tcunit.org).
 
 ## <span style="color:#C0C0C0;">SILVER</span> [sponsors](https://github.com/sponsors/tcunit)
 
-[**David Freiberger - dfreiberger**](https://github.com/dfreiberger)
-
 <img src="https://avatars.githubusercontent.com/u/3814449?v=4" width="100" />
+
+[**David Freiberger / dfreiberger**](https://github.com/dfreiberger)
 
 ## <span style="color:#CD7F32;">BRONZE</span> [sponsors](https://github.com/sponsors/tcunit)
 
 <img src="https://avatars.githubusercontent.com/u/155195814?v=4" width="100" />
 
-[**Kusay Tomeh - KTomeh**](https://github.com/KTomeh)
+[**Kusay Tomeh / KTomeh**](https://github.com/KTomeh)
 
 <img src="https://avatars.githubusercontent.com/u/96783034?v=4" width="100" />
 
-[**Piotr Ostrowski - PiotrOstrowskiCSEG**](https://github.com/PiotrOstrowskiCSEG)
+[**Piotr Ostrowski / PiotrOstrowskiCSEG**](https://github.com/PiotrOstrowskiCSEG)
 
 <img src="https://avatars.githubusercontent.com/u/26556312?v=4" width="100" />
 
-[**Jan Hecht - jh-isw**](https://github.com/jh-isw)
+[**Jan Hecht / jh-isw**](https://github.com/jh-isw)
+
+<img src="https://avatars.githubusercontent.com/u/106118893?v=4" width="100" />
+
+[**Adam Haney / Jester1911**](https://github.com/Jester1911)
